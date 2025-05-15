@@ -1,4 +1,5 @@
 👋 Hey, Pratyusha here! I'm a developer who enjoys building user-friendly full-stack web applications.
+Portfolio: https://pratyusha-d-portfolio.netlify.app/
 
 Thanks for visiting — feel free to check out my projects!
 
